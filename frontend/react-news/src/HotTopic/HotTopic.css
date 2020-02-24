@@ -1,0 +1,59 @@
+  /* div {
+    border: 1px solid red;
+  } */
+
+  .focus-topic {
+    height: 100%;
+    overflow: auto;
+  }
+  
+  .float > img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .float {
+    float:left;
+    width:50%;
+    height:50%;
+    margin: 0px 10px;
+  }
+  
+  .box-utama {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .date-selector {
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+  }
+  
+  .hot-topic {
+    display:grid;
+    grid-template-rows: 0.5fr 0.5fr 4fr;
+    height: 500px;
+    margin-right: 20px;
+    padding: 10px;
+  }
+  
+  .slider {
+    display:flex;
+    justify-content:center;
+    align-items: center;
+  }
+  
+  .single-topic {
+    display:grid;
+    grid-template-rows: 1fr 4fr;
+    height: 500px;
+  }
+  
+  .topic {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
