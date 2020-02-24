@@ -1,5 +1,12 @@
 How to use this app?
 
+## Initial Requirement
+- You must install python in your machine
+- You must install node v12.14.1 or above
+- You must install npm v6.13.6 or above
+
+Make sure to install all things that is needed in the initial requirement. After that you can:
+
 1. Clone this repository
 2. Go to the cloned directory
 
