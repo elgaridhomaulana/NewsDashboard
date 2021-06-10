@@ -2,7 +2,7 @@ astroid==2.3.3
 autopep8==1.5
 Click==7.0
 colorama==0.4.3
-fastapi==0.49.0
+fastapi==0.65.2
 h11==0.9.0
 isort==4.3.21
 lazy-object-proxy==1.4.3
